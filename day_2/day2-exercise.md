@@ -34,7 +34,5 @@
   ## 5: Internal CSS are used to write within the same file while external are used to write in a seperate file than the HTML document.
   ## 6: A color hex code are values that tell you what color to display.
   ## 7: The three parts of an HSL color property are hue, saturation, and lightness.
-  ## 8:
-  ## 9:
-
-  
+  ## 8: Serif, san-serif, and monospaced are the three different fonts in the world of interface. The differences is that serif and san-serif are used for the body of a paragraph while monospaced is generally used for displaying code but can also be used for the body and headline.
+  ## 9: The three main sizes used when specifiying font size is px, em and %.  
