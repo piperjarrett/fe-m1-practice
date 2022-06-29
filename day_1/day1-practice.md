@@ -1,9 +1,9 @@
 ## 1: HTML code is used to format the layout of a website.
-## 2: The tag is used as a beginning tag or closing tag to create a header, paragraph, title, etc. and can denoted by (<p>, </p>). An element consists of the opening tag, closing tab, and information in between. Ex// <h1>This is header One.</h1>
+## 2: The tag is used as a beginning tag or closing tag to create a header, paragraph, title, etc.  An element consists of the opening tag, closing tab, and information in between. Ex// <h1>This is header one.</h1>
 ## 3: To provide more  information about what the HTML elements contain.
 ## 4: The head contains information about the page. The title is usually found within the head and is shown on the top of your webpage, above the url. everything inside the body HTML element is used shown on the web page.
 ## 5:right click on web page and select "View Page Source".
-## 6: <p></p> - Paragraph element and paragraph of text. <h1></h2> - Header 1 element and contains header text. <title></title> - title element and contains title of the website shown above URL. <body></body> - Body element and everything in between is shown on the website. <html></html> html element and represents the beginning and end of the entire code.
+## 6: <p></p> Paragraph element and paragraph of text. <h1></h2> Header 1 element and contains header text. <title></title> title element and contains title of the website shown above URL. <body></body> Body element and everything in between is shown on the website. <html></html> html element and represents the beginning and end of the entire code.
 ## 7: An element that does not have an enclosing tag.
 ## 8: Semantic markup is everything that is included in a HTML code. Including the headers, paragraphs titles and much more.  
 ## 9:
