@@ -6,7 +6,8 @@
 ## 6: <p></p> Paragraph element and paragraph of text. <h1></h2> Header 1 element and contains header text. <title></title> title element and contains title of the website shown above URL. <body></body> Body element and everything in between is shown on the website. <html></html> html element and represents the beginning and end of the entire code.
 ## 7: An element that does not have an enclosing tag.
 ## 8: Semantic markup is everything that is included in a HTML code. Including the headers, paragraphs titles and much more.  
-## 9:
+## 9: mark defines marked or highlighted text. section defines a certain section within the document. nav defines the navigation link.
+
 ## HTML practice
 <html>
   <head>
