@@ -2,6 +2,7 @@
 ## 2: An anchor element; a.
 ## 3: href.
 ## 4: id.
+## HTML practice:
 <html>
 <body>
 <h2>Students in FE 2207</h2>
@@ -24,3 +25,16 @@
     </p>
     </body>
   </html>
+
+
+  ## 1: CSS is used to design the color, layout and font of a web page.
+  ## 2: Cascading Style Sheets. Cascading stands for starting with more general declarations down to a more specific rules to chose the most specific declaration.
+  ## 3: The basic structure of a CSS rule is a syntax, property and it's value.
+  ## 4: In order to line a CSS styslesheet into your HTML document, you have to inline, internal or external by using the style or link attribute.
+  ## 5: Internal CSS are used to write within the same file while external are used to write in a seperate file than the HTML document.
+  ## 6: A color hex code are values that tell you what color to display.
+  ## 7: The three parts of an HSL color property are hue, saturation, and lightness.
+  ## 8:
+  ## 9:
+
+  
